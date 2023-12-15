@@ -11,7 +11,7 @@ import './ChatAdmin.css';
 
 
 
-let EndPoint = 'http://localhost:5000';
+let EndPoint = 'https://real-time-char-web-backend-text.onrender.com';
 
 let socket;
 
